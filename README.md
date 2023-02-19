@@ -1,4 +1,6 @@
-![Brian's GitHub Banner](./assets/BannerWaterfall.gif)
+<p align="center">
+<img src="./assets/BannerWaterfall.gif" alt="animated" width="1500" height="300"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Brian Rodiles</h1>
 <h3 align="center">Computer Science Major and Undergraduate Researcher</h3>
