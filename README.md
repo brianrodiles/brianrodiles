@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Rodiles</h1>
 <h3 align="center">Computer Science Major and Undergraduate Researcher</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p style: "text-align: justify">  
 
