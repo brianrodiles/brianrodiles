@@ -9,8 +9,10 @@
 
 ## 📌 Pinned Projects
 
-<a href="https://github.com/brianrodiles/AI4ALL-ASL-Translator.git">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/brianrodiles/AI4ALL-ASL-Translator.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=AI4ALL-ASL-Translator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/brianrodiles/Advanced-OOP-Airline.git">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=Advanced-OOP-Airline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 </br>
@@ -19,7 +21,7 @@
 
 ## 👾 CTF Writeups
 
-<a href="https://github.com/brianrodiles/LACTF-23.git">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/brianrodiles/LACTF-23.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=LACTF-23&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
