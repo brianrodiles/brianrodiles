@@ -11,7 +11,7 @@
 
 <a href="https://github.com/brianrodiles/AI4ALL-ASL-Translator.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=AI4ALL-ASL-Translator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> <a href="https://github.com/brianrodiles/Advanced-OOP-Airline.git">
+</a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/brianrodiles/Advanced-OOP-Airline.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=Advanced-OOP-Airline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -21,7 +21,7 @@
 
 ## 👾 CTF Writeups
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/brianrodiles/LACTF-23.git">
+<a href="https://github.com/brianrodiles/LACTF-23.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=LACTF-23&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
