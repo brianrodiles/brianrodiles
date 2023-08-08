@@ -19,7 +19,7 @@
 
 ## 👾 CTF Writeups
 
-&nbsp; <a href="https://github.com/brianrodiles/LACTF-23.git">
+&nbsp; <a href="https://github.com/brianrodiles/Target-CTF-23.git">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=LACTF-23&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
