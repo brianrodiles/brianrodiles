@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Brian Rodiles</h1>
-<h3 align="center">Computer Science Major and Undergraduate Researcher</h3>
+<h3 align="center">OffSec Professional, Cybersecurity Management MBA Candidate at UWF, M.S./B.S. in Computer Science at UTEP, and ICS/OT Cybersecurity Researcher r</h3>
 
 
 
@@ -17,11 +17,11 @@
 
 
 
-## 👾 CTF Writeups
+[//] ## 👾 CTF Writeups
 
-&nbsp; <a href="https://github.com/brianrodiles/Target-CTF-23.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=Target-CTF-23&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[//]&nbsp; <a href="https://github.com/brianrodiles/Target-CTF-23.git">
+[//]  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brianrodiles&repo=Target-CTF-23&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+[//]</a>
 
 
 
