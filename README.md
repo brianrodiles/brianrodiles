@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Brian Rodiles</h1>
-<h3 align="center">OffSec Professional, Cybersecurity Management MBA Candidate at UWF, M.S./B.S. in Computer Science at UTEP, and ICS/OT Cybersecurity Researcher r</h3>
+<h3 align="center">OffSec Professional, Cybersecurity Management MBA Candidate at UWF, M.S./B.S. in Computer Science at UTEP, and ICS/OT Cybersecurity Researcher</h3>
 
 
 
